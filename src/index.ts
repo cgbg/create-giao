@@ -14,7 +14,7 @@ const bootstrap = async () => {
   ░░██  ░░░░██░██░██░░░░░░██░░██     ██ 
    ░░████████ ░██░██     ░██ ░░███████  
     `);
-    console.log("一GIAO窝里GIAO GIAO      GIAO")
+    console.log("一GIAO窝里 GIAO GIAO    GIAO!!!")
     const result =  await prompts([
         {
             type: "text",
