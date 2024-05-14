@@ -16,6 +16,7 @@ const bootstrap = async () => {
     `);
     console.log("一GIAO 我哩 GIAO GIAO    GIAO~")
     console.log("你真的懂唯一    ~的定义")
+    console.log("缠住吻住春风吹住我吗      缠住吻住郁金香是你吗")
     const result =  await prompts([
         {
             type: "text",
