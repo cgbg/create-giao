@@ -14,7 +14,8 @@ const bootstrap = async () => {
   ░░██  ░░░░██░██░██░░░░░░██░░██     ██ 
    ░░████████ ░██░██     ░██ ░░███████  
     `);
-    console.log("一GIAO窝里 GIAO GIAO    GIAO!!!")
+    console.log("一GIAO 我哩 GIAO GIAO    GIAO~")
+    console.log("你真的懂唯一的定义")
     const result =  await prompts([
         {
             type: "text",
