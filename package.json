@@ -10,7 +10,7 @@
     "template"
   ],
   "scripts": {
-    "dev": "tsup --watch",
+    "serve": "tsup --watch",
     "build": "tsup",
     "typecheck": "tsc --noEmit",
     "release": "release-it"
